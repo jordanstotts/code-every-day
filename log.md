@@ -18,8 +18,8 @@
 
 ### Day 2: February 18, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Did some javascript codewars challenges as well as worked on the golf website.
 
-**Thoughts**: 
+**Thoughts**: Codewars was much needed today to refresh some of the javascript skills.
 
-**Link(s) to work**:
+**Link(s) to work**: [Codewars](https://www.codewars.com/users/jordanstotts)
