@@ -9,9 +9,9 @@
 
 ### Day 1: February 17, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Did initial set up of a react project. Making a website for the golf tournament my friends and I created and play in every year.
 
-**Thoughts**: Did initial set up of a react project. Making a website for the golf tournament my friends and I created and play in every year.
+**Thoughts**: This website will mainly be for my friends and I, but will help keep my react and javascript knowledge sharp.
 
 **Link(s) to work**: [FlagTourneyWebsite](https://github.com/jordanstotts/FlagTourneyWebsite)
 
