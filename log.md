@@ -23,3 +23,39 @@
 **Thoughts**: Codewars was much needed today to refresh some of the javascript skills.
 
 **Link(s) to work**: [Codewars](https://www.codewars.com/users/jordanstotts)
+
+
+### Day 3: February 19, 2022
+
+**Today's Progress**: Did some javascript codewars challenges as well as worked on the golf website.
+
+**Thoughts**: Codewars was much needed today to refresh some of the javascript skills.
+
+**Link(s) to work**: [Codewars](https://www.codewars.com/users/jordanstotts)
+
+
+### Day 4: February 20, 2022
+
+**Today's Progress**: Did some javascript codewars challenges as well as worked on the golf website.
+
+**Thoughts**: Codewars was much needed today to refresh some of the javascript skills.
+
+**Link(s) to work**: [Codewars](https://www.codewars.com/users/jordanstotts)
+
+
+### Day 5: February 21, 2022
+
+**Today's Progress**: Did some javascript codewars challenges as well as worked on the golf website.
+
+**Thoughts**: Codewars was much needed today to refresh some of the javascript skills.
+
+**Link(s) to work**: [Codewars](https://www.codewars.com/users/jordanstotts)
+
+
+### Day 6: February 22, 2022
+
+**Today's Progress**: Did some javascript codewars challenges as well as worked on the golf website.
+
+**Thoughts**: Codewars was much needed today to refresh some of the javascript skills.
+
+**Link(s) to work**: [Codewars](https://www.codewars.com/users/jordanstotts)
