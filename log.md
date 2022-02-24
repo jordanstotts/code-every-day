@@ -59,3 +59,12 @@
 **Thoughts**: Python syntax is throwing me off a bit but should improve the more I work with it.
 
 **Link(s) to work**: [Python OOP](https://git.generalassemb.ly/jordanstotts/codebar)
+
+
+### Day 7: February 23, 2022
+
+**Today's Progress**: Worked through a few python and javascript exercises throughout the day.
+
+**Thoughts**: 1 week done!
+
+**Link(s) to work**: [Codewars](https://www.codewars.com/users/jordanstotts)
