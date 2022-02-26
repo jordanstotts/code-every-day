@@ -68,3 +68,21 @@
 **Thoughts**: 1 week done!
 
 **Link(s) to work**: [Codewars](https://www.codewars.com/users/jordanstotts)
+
+
+### Day 8: February 24, 2022
+
+**Today's Progress**: Mostly worked on the Python/Django installation process today.
+
+**Thoughts**: Windows seems to be a little harder to work with than a Mac. Took a second to figure out all the CLI keywords needed 
+
+**Link(s) to work**: 
+
+
+### Day 9: February 25, 2022
+
+**Today's Progress**: Spent most of the day working through a a backend project in Django
+
+**Thoughts**: 
+
+**Link(s) to work**: [Django API](https://git.generalassemb.ly/jordanstotts/django-api-lab)
