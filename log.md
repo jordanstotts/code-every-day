@@ -86,3 +86,12 @@
 **Thoughts**: 
 
 **Link(s) to work**: [Django API](https://git.generalassemb.ly/jordanstotts/django-api-lab)
+
+
+### Day 10: February 26, 2022
+
+**Today's Progress**: A lot of CSS and general designing of the the flag website today
+
+**Thoughts**: Think I have a good idea of how I want the website to look and what components still need to be created.
+
+**Link(s) to work**: [FlagTourneyWebsite](https://github.com/jordanstotts/FlagTourneyFrontEnd)
