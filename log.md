@@ -95,3 +95,21 @@
 **Thoughts**: Think I have a good idea of how I want the website to look and what components still need to be created.
 
 **Link(s) to work**: [FlagTourneyWebsite](https://github.com/jordanstotts/FlagTourneyFrontEnd)
+
+
+### Day 11: February 27, 2022
+
+**Today's Progress**: More codewars practice today with JavaScript
+
+**Thoughts**: 
+
+**Link(s) to work**: [Codewars](https://www.codewars.com/users/jordanstotts)
+
+
+### Day 12: February 28, 2022
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
