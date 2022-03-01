@@ -108,8 +108,8 @@
 
 ### Day 12: February 28, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Started to create my profesional portfolio today as well as some recursion practice.
 
-**Thoughts**: 
+**Thoughts**: Recursion took a minute to wrap my brain around the first time so I figured it would be good to go back over it today
 
-**Link(s) to work**: 
+**Link(s) to work**: [Portfolio](https://github.com/jordanstotts/portfolio)
