@@ -113,3 +113,21 @@
 **Thoughts**: Recursion took a minute to wrap my brain around the first time so I figured it would be good to go back over it today
 
 **Link(s) to work**: [Portfolio](https://github.com/jordanstotts/portfolio)
+
+
+### Day 13: March 1, 2022
+
+**Today's Progress**: Went through some old array/object methods deliverables from class to continue practicing with them. 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+### Day 14: March 2, 2022
+
+**Today's Progress**: Went through a tutorial on Next.js today as well as watched a lot of YouTube videos about it.
+
+**Thoughts**: I really liked React, but after working a little bit in Next today I can tell I'm going to end up prefering Next and I haven't even scratched the surface of it yet.
+
+**Link(s) to work**: [Exchange Rates - Next.js](https://exchange-rates-next.herokuapp.com/)
