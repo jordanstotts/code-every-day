@@ -128,6 +128,6 @@
 
 **Today's Progress**: Went through a tutorial on Next.js today as well as watched a lot of YouTube videos about it.
 
-**Thoughts**: I really liked React, but after working a little bit in Next today I can tell I'm going to end up prefering Next and I haven't even scratched the surface of it yet.
+**Thoughts**: I really regular old React, but after working a little bit in Next today I can tell I'm going to end up prefering Next and I haven't even scratched the surface of it yet.
 
 **Link(s) to work**: [Exchange Rates - Next.js](https://exchange-rates-next.herokuapp.com/)
