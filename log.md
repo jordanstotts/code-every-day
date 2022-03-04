@@ -131,3 +131,12 @@
 **Thoughts**: I really regular old React, but after working a little bit in Next today I can tell I'm going to end up prefering Next and I haven't even scratched the surface of it yet.
 
 **Link(s) to work**: [Exchange Rates - Next.js](https://exchange-rates-next.herokuapp.com/)
+
+
+### Day 15: March 3, 2022
+
+**Today's Progress**: Worked on finishing up my portfolio website
+
+**Thoughts**: Should hopefully be able to get this done by the end of the weekend!
+
+**Link(s) to work**: [Portfolio](https://github.com/jordanstotts/portfolio)
