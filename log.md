@@ -140,3 +140,31 @@
 **Thoughts**: Should hopefully be able to get this done by the end of the weekend!
 
 **Link(s) to work**: [Portfolio](https://github.com/jordanstotts/portfolio)
+
+
+### Day 16: March 4, 2022
+
+**Today's Progress**: More codewars today
+
+**Thoughts**: 
+
+**Link(s) to work**: [Codewars](https://www.codewars.com/users/jordanstotts)
+
+
+### Day 17: March 5, 2022
+
+**Today's Progress**: Did a lot of work on my portfolio today
+
+**Thoughts**: Just about finished up. I just need to deploy a few things and make sure everything works
+
+**Link(s) to work**: [Portfolio](https://github.com/jordanstotts/portfolio)
+
+
+### Day 18: March 6, 2022
+
+**Today's Progress**: Finished portfolio today!
+
+**Thoughts**: Really glad I have this finished now and can start sending this out with job applicaitons
+
+**Link(s) to work**: [Portfolio](https://jordanstotts.herokuapp.com/)
+
