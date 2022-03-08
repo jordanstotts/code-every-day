@@ -168,3 +168,12 @@
 
 **Link(s) to work**: [Portfolio](https://jordanstotts.herokuapp.com/)
 
+
+### Day 19: March 7, 2022
+
+**Today's Progress**: Shifted forcus back to the flag website today.
+
+**Thoughts**: Happy with the layout of the website, but may add a few more things later. It's been a while since I've worked with express and all the backend languages, but I'll be starting on that tomorrow. 
+
+**Link(s) to work**: [FlagTourneyWebsite](https://github.com/jordanstotts/FlagTourneyFrontEnd)
+
