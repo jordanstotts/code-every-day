@@ -171,9 +171,45 @@
 
 ### Day 19: March 7, 2022
 
-**Today's Progress**: Shifted forcus back to the flag website today.
+**Today's Progress**: Shifted focus back to the flag website today.
 
 **Thoughts**: Happy with the layout of the website, but may add a few more things later. It's been a while since I've worked with express and all the backend languages, but I'll be starting on that tomorrow. 
+
+**Link(s) to work**: [FlagTourneyWebsite](https://github.com/jordanstotts/FlagTourneyFrontEnd)
+
+
+### Day 20: March 8, 2022
+
+**Today's Progress**: Flag tourney website is now my capstone project for GA. Probably working on that the rest of the week
+
+**Thoughts**:  
+
+**Link(s) to work**: [FlagTourneyWebsite](https://github.com/jordanstotts/FlagTourneyFrontEnd)
+
+
+### Day 21: March 9, 2022
+
+**Today's Progress**: Flag website css today
+
+**Thoughts**: 
+
+**Link(s) to work**: [FlagTourneyWebsite](https://github.com/jordanstotts/FlagTourneyFrontEnd)
+
+
+### Day 22: March 10, 2022
+
+**Today's Progress**: Added a few forms and modals to the site
+
+**Thoughts**: 
+
+**Link(s) to work**: [FlagTourneyWebsite](https://github.com/jordanstotts/FlagTourneyFrontEnd)
+
+
+### Day 22: March 11, 2022
+
+**Today's Progress**: Mainly did CSS styling today
+
+**Thoughts**: 
 
 **Link(s) to work**: [FlagTourneyWebsite](https://github.com/jordanstotts/FlagTourneyFrontEnd)
 
